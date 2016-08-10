@@ -1,0 +1,14 @@
+layout_spectrum: 0.8039662670344114
+typography_spectrum: 0.522886314895004
+color:
+  brandStrength: 0.6200245604850352
+  lightness: 0.9309345639776438
+  saturation: 0.7205903364811093
+  rhythmicContrast: 0.33252477343194187
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Holos
